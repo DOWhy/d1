@@ -146,5 +146,3 @@ if __name__ == "__main__":
 					file2.write(content)
 					file2.close()
 			
-
-	saveTheTimeOfToAnki(path, time.time())
